@@ -5,3 +5,4 @@
   - Q 3. Palindrome Check - 56 ms 14 MB Easy 
 + Day - 2 :
   - Q 1. Roman to Int - 58 ms 14 MB Easy
+  - Q 2. Longest Common Prefix - 78 ms 14 MB Easy
