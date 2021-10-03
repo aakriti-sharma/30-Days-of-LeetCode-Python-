@@ -8,9 +8,9 @@
   - Q 2. Longest Common Prefix - 78 ms 14 MB Easy
   - Q 3. Valid Parantheses - 32 ms 14 MB Easy 
 + Day - 3 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
+  - Q 1. Remove duplicates -  184 ms 15.6 MB Easy
+  - Q 2. Remove All Occurrences - 28 ms 14.1 MB Easy
+  - Q 3. First Occurrence - 32 ms 14.3 MB Easy
 + Day - 4 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
