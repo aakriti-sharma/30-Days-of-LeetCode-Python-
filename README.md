@@ -16,9 +16,9 @@
   - Q 2. Length of Last Word - 42 ms 14.4 MB Easy
   - Q 3. Plus On - 28 ms 14.1 MB Easy 
 + Day - 5 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
+  - Q 1. Add Binary - 64 ms 14.3 MB Easy
+  - Q 2. Sqrt(x) - 57 ms 14.2 MB Easy
+  - Q 3. Climbing Stairs - 53 ms 14.2 MB Easy
 + Day - 6 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
