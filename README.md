@@ -20,9 +20,9 @@
   - Q 2. Sqrt(x) - 57 ms 14.2 MB Easy
   - Q 3. Climbing Stairs - 53 ms 14.2 MB Easy
 + Day - 6 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy 
+  - Q 1. Merge Sorted Array - 32 ms 14.2 MB Easy
+  - Q 2. Pascal's Triangle - 39 ms 14.3 MB Easy
+  - Q 3. Valid Palindrome - 28 ms 15.6 MB Easy 
 + Day - 7 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
