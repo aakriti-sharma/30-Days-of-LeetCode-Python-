@@ -24,6 +24,6 @@
   - Q 2. Pascal's Triangle - 39 ms 14.3 MB Easy
   - Q 3. Valid Palindrome - 28 ms 15.6 MB Easy 
 + Day - 7 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy  
+  - Q 1. Single Number - 5652 ms 16.7 MB Easy
+  - Q 2. Pascal's Triangle II - 32 ms 14.3 MB Easy
+  - Q 3. Min Stack - 588 ms 18.2 MB Easy  
