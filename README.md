@@ -29,12 +29,10 @@
   - Q 3. Min Stack - 588 ms 18.2 MB Easy  
 + Day - 8 :
   - Q 1. Excel Sheet Column Title - 32 ms 14.1 MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
 + Day - 9 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
+  - Q 1. Best Time to Buy and Sell Stock - 1000 ms 25.3 MB Easy
+  - Q 2. Two Sum II - 64 ms 14.6 MB Easy
+  - Q 3. Excel Sheet Column Number - 36 ms 14.1 MB Easy
 + Day - 10 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
