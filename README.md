@@ -34,6 +34,6 @@
   - Q 2. Two Sum II - 64 ms 14.6 MB Easy
   - Q 3. Excel Sheet Column Number - 36 ms 14.1 MB Easy
 + Day - 10 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy    
+  - Q 1. Reverse Bits - 32 ms 14.6 MB Easy
+  - Q 2. Number of 1 Bits - 28 ms 14.2 MB Easy
+  - Q 3. Isomorphic Strings - 44 ms 14.3 MB Easy    
