@@ -36,4 +36,121 @@
 + Day - 10 :
   - Q 1. Reverse Bits - 32 ms 14.6 MB Easy
   - Q 2. Number of 1 Bits - 28 ms 14.2 MB Easy
-  - Q 3. Isomorphic Strings - 44 ms 14.3 MB Easy    
+  - Q 3. Isomorphic Strings - 44 ms 14.3 MB Easy  
++ Day - 11 :
+  - Q 1. Reverse Vowels - 90 ms 17.2 MB Easy
+  - Q 2. Add Digits - 32 ms 14.3 MB Easy
+  - Q 3. Valid Anagram - 40 ms 15 MB Easy
+  - Q 4. Power of Two - 36 ms 14.2 MB Easy
++ Day - 12 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 13 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 14 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 15 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 16 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 17 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 18 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 19 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 20 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
++ Day - 21 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 22 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 23 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 24 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 25 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 26 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 27 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 28 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 29 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 30 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
++ Day - 31 :
+  - Q 1.  -  ms  MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
+  - Q 5.  -  ms  MB Easy
+
