@@ -43,10 +43,10 @@
   - Q 3. Valid Anagram - 40 ms 15 MB Easy
   - Q 4. Power of Two - 36 ms 14.2 MB Easy
 + Day - 12 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
+  - Q 1. Ugly Number - 32 ms 14.3 MB Easy
+  - Q 2. Move Zeroes - 652 ms 15.7 MB Easy
+  - Q 3. First Bad Version - 44 ms 14.3 MB Easy
+  - Q 4. Majority Element - 255 ms 15.6 MB Easy
 + Day - 13 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
