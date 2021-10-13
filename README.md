@@ -48,10 +48,10 @@
   - Q 3. First Bad Version - 44 ms 14.3 MB Easy
   - Q 4. Majority Element - 255 ms 15.6 MB Easy
 + Day - 13 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
+  - Q 1. Word Pattern - 40 ms 14.2 MB Easy
+  - Q 2. Find The Difference - 36 ms 14.5 MB Easy
+  - Q 3. Happy Number - 36 ms 14.4 MB Easy
+  - Q 4. First Unique Character in a String - 69 ms 14.5 MB Easy
 + Day - 14 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
