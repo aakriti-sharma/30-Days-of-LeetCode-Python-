@@ -53,10 +53,10 @@
   - Q 3. Happy Number - 36 ms 14.4 MB Easy
   - Q 4. First Unique Character in a String - 69 ms 14.5 MB Easy
 + Day - 14 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
+  - Q 1. Contains Duplicate II - 628 ms 27.7 MB Easy
+  - Q 2. Contains Duplicate  - 115 ms 21.5 MB Easy
+  - Q 3. Missing Number - 144 ms 15.5 MB Easy
+  - Q 4. Reverse String II - 51 ms 14.5 MB Easy
 + Day - 15 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
