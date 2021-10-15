@@ -58,10 +58,10 @@
   - Q 3. Missing Number - 144 ms 15.5 MB Easy
   - Q 4. Reverse String II - 51 ms 14.5 MB Easy
 + Day - 15 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
+  - Q 1. Counting Bits -  ms  MB Easy
+  - Q 2. Intersection of Two Arrays - 83 ms 14.4 MB Easy
+  - Q 3. Arranging Coins - 43 ms 14.2 MB Easy
+  - Q 4. Guess Number Higher or Lower - 28 ms 14.3 MB Easy
 + Day - 16 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
