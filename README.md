@@ -68,10 +68,7 @@
   - Q 3. Longest Palindrome - 40 ms 14.4 MB Easy
   - Q 4. Assign Cookies - 273 ms 16 MB Easy
 + Day - 17 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
+  - Q 1. Can Place Flowers - 156 ms 14.5 MB Easy
 + Day - 18 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
