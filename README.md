@@ -77,8 +77,8 @@
   - Q 3.  -  ms  MB Easy
   - Q 4.  -  ms  MB Easy
 + Day - 19 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
+  - Q 1. Next Greater I - 131 ms 14.5 MB Easy
+  - Q 2. Hamming Distance - 32 ms 14.2 MB Easy
   - Q 3.  -  ms  MB Easy
   - Q 4.  -  ms  MB Easy
 + Day - 20 :
