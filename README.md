@@ -29,6 +29,8 @@
   - Q 3. Min Stack - 588 ms 18.2 MB Easy  
 + Day - 8 :
   - Q 1. Excel Sheet Column Title - 32 ms 14.1 MB Easy
+  - Q 2. Median of Two Sorted Arrays - 88 ms 14.6 MB Hard
+  - Q 3. ZigZag Conversion - 116 ms 20.1 MB Medium
 + Day - 9 :
   - Q 1. Best Time to Buy and Sell Stock - 1000 ms 25.3 MB Easy
   - Q 2. Two Sum II - 64 ms 14.6 MB Easy
