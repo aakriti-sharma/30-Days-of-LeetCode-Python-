@@ -71,9 +71,12 @@
   - Q 4. Assign Cookies - 273 ms 16 MB Easy
 + Day - 17 :
   - Q 1. Can Place Flowers - 156 ms 14.5 MB Easy
+  - Q 2.  -  ms  MB Easy
+  - Q 3.  -  ms  MB Easy
+  - Q 4.  -  ms  MB Easy
 + Day - 18 :
   - Q 1. Intersection of Two Arrays  - 64 ms 14.3 MB Easy
-  - Q 2.  -  ms  MB Easy
+  - Q 2. Reverse Words in a String - 32 ms 14.4 MB Medium
   - Q 3.  -  ms  MB Easy
   - Q 4.  -  ms  MB Easy
 + Day - 19 :
@@ -82,9 +85,9 @@
   - Q 3.  -  ms  MB Easy
   - Q 4.  -  ms  MB Easy
 + Day - 20 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
+  - Q 1. Find All Numbers Disappeared in an Array - 324 ms 25.5 MB Easy
+  - Q 2. Island Perimeter - 512 ms 14.7 MB Easy
+  - Q 3. License Key Formatting - 36 ms 15 MB Easy
   - Q 4.  -  ms  MB Easy
 + Day - 21 :
   - Q 1.  -  ms  MB Easy
