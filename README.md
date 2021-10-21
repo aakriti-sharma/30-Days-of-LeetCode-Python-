@@ -90,8 +90,8 @@
   - Q 3. License Key Formatting - 36 ms 15 MB Easy
   - Q 4.  -  ms  MB Easy
 + Day - 21 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
+  - Q 1. Distribute Candies - 748 ms 16.1 MB Easy
+  - Q 2. Teemo Attacking - 364 ms 15.4 MB Easy
   - Q 3.  -  ms  MB Easy
   - Q 4.  -  ms  MB Easy
   - Q 5.  -  ms  MB Easy
