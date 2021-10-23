@@ -102,11 +102,11 @@
   - Q 4.  -  ms  MB Easy
   - Q 5.  -  ms  MB Easy
 + Day - 23 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
-  - Q 5.  -  ms  MB Easy
+  - Q 1. Number Compliment - 28 ms 14.1 MB Easy
+  - Q 2. Construct the Rectangle - 32 ms 13.9 MB Easy
+  - Q 3. Keyboard Row - 28 ms 14.3 MB Easy
+  - Q 4. Perfect Number - 40 ms 14.3 MB Easy
+  - Q 5. Reshape the Matrix - 88 ms 15.4 MB Easy
 + Day - 24 :
   - Q 1.  -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
