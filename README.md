@@ -108,10 +108,10 @@
   - Q 4. Perfect Number - 40 ms 14.3 MB Easy
   - Q 5. Reshape the Matrix - 88 ms 15.4 MB Easy
 + Day - 24 :
-  - Q 1.  -  ms  MB Easy
-  - Q 2.  -  ms  MB Easy
-  - Q 3.  -  ms  MB Easy
-  - Q 4.  -  ms  MB Easy
+  - Q 1. Set Mismatch - 224 ms 16.2 MB Easy
+  - Q 2. Baseball Game - 254 ms 14.5 MB Easy
+  - Q 3. Crawler Log Folder - 68 ms 14.5 MB Easy
+  - Q 4. Backspace String Compare - 67 ms 14.3 MB Easy
   - Q 5.  -  ms  MB Easy
 + Day - 25 :
   - Q 1.  -  ms  MB Easy
