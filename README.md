@@ -114,7 +114,7 @@
   - Q 4. Backspace String Compare - 67 ms 14.3 MB Easy
   - Q 5.  -  ms  MB Easy
 + Day - 25 :
-  - Q 1.  -  ms  MB Easy
+  - Q 1. Divide Two Integers -  ms  MB Easy
   - Q 2.  -  ms  MB Easy
   - Q 3.  -  ms  MB Easy
   - Q 4.  -  ms  MB Easy
